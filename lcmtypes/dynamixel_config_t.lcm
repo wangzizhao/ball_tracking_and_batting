@@ -1,0 +1,14 @@
+struct dynamixel_config_t
+{
+  int64_t utime;
+  // these are for MX and XL motors
+  byte kp; //0-255 default: 32
+  byte ki; //0-255 default: 0
+  byte kd; //0-255 default: 0
+  //these are for AX motors
+  byte compl_margin;
+  byte compl_slope;
+  //this are for all motors
+  byte LED;
+  
+}

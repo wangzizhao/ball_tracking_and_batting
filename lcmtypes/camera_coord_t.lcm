@@ -1,0 +1,11 @@
+struct camera_coord_t
+{
+	double x;
+	double y;
+	double z;
+	double v_x;
+	double v_y;
+	double v_z;
+	int64_t mode;
+	int64_t utime;	
+}

@@ -1,0 +1,5 @@
+struct dynamixel_config_list_t
+{
+  int32_t len;
+  dynamixel_config_t configs[len];
+}
