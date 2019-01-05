@@ -10,7 +10,9 @@ In this project our team designed a robot that could track the ball, predict the
 
 Ball detection:
 
-<img src="./README_imgs/ball_detecting.gif" width="300px" />
+<p align="middle">
+  <img src="./README_imgs/ball_detecting.gif" width="350" />
+</p>
 
 Ball tracking:
 
@@ -37,13 +39,17 @@ Structure
 
 - Two turntables to keep the cameras aiming at the ball
 
-  <img src="./README_imgs/turntable.jpg" width="300px" />
+  <p align="middle">
+    <img src="./README_imgs/turntable.jpg" width="300" />
+  </p>
 
 - A robot arm to bat the ball
 
-  <img src="./README_imgs/arm.jpg" width="300px" />
+  <p align="middle">
+    <img src="./README_imgs/arm.jpg" width="300" />
+  </p>
 
-
+Workflow and Approaches
 
 <img src="./README_imgs/approach.jpg" width="1500px" />
 
